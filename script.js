@@ -8,8 +8,8 @@
 	  
 				<div id="pop-up-wrapper" class="swirl-in-fwd">
 				  <img
-					src="https://raintoto-hujan.b-cdn.net/pop%20raintoto%20gg.png"
-					alt="LINK RAINTOTO"
+					src="https://imgstorage.site/view/berlin/popup-dptoto.png"
+					alt="LINK DPTOTO"
 				  />
 	  
 				  <div class="x-mark-container" onclick="close_pop_up()">X</div>
