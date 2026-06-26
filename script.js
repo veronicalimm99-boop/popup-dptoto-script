@@ -8,7 +8,7 @@
 	  
 				<div id="pop-up-wrapper" class="swirl-in-fwd">
 				  <img
-					src="https://imgstorage.site/view/berlin/dptoto-popup.webp"
+					src="https://imgstorage.site/view/plotwis/dptoto-popup.png"
 					alt="LINK DPTOTO"
 				  />
 	  
